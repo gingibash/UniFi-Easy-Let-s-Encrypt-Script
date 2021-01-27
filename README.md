@@ -24,9 +24,10 @@ The Easy Let's Encrypt Script can be downloaded [here](https://get.glennr.nl/uni
 
 Run the command below in your terminal to start the script:
 
+```
 rm unifi-lets-encrypt.sh &> /dev/null; wget https://get.glennr.nl/unifi/extra/unifi-lets-encrypt.sh && bash unifi-lets-encrypt.sh
-
+```
 You can use the option --help to find all the script options:
-
+```
 bash unifi-lets-encrypt.sh --help
-
+```
